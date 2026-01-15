@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RXoBFUItNpyLFUtMFEdJZiQiQQFPo6e7tf4xIhVlT2U=",
+  "Source": "login.Api",
+  "BasePath": "_content/login.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+/home/c/Música/login.Infrastructure/bin/Debug/net8.0/login.Infrastructure.deps.json
+/home/c/Música/login.Infrastructure/bin/Debug/net8.0/login.Infrastructure.runtimeconfig.json
+/home/c/Música/login.Infrastructure/bin/Debug/net8.0/login.Infrastructure.dll
+/home/c/Música/login.Infrastructure/bin/Debug/net8.0/login.Infrastructure.pdb
+/home/c/Música/login.Infrastructure/bin/Debug/net8.0/login.Domain.dll
+/home/c/Música/login.Infrastructure/bin/Debug/net8.0/login.Domain.pdb
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.csproj.AssemblyReference.cache
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.AssemblyInfoInputs.cache
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.AssemblyInfo.cs
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.csproj.CoreCompileInputs.cache
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.csproj.CopyComplete
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.dll
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/refint/login.Infrastructure.dll
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.pdb
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/login.Infrastructure.genruntimeconfig.cache
+/home/c/Música/login.Infrastructure/obj/Debug/net8.0/ref/login.Infrastructure.dll

@@ -1,0 +1,17 @@
+/home/c/Música/login.Application/bin/Debug/net8.0/login.Application.deps.json
+/home/c/Música/login.Application/bin/Debug/net8.0/login.Application.runtimeconfig.json
+/home/c/Música/login.Application/bin/Debug/net8.0/login.Application.dll
+/home/c/Música/login.Application/bin/Debug/net8.0/login.Application.pdb
+/home/c/Música/login.Application/bin/Debug/net8.0/login.Domain.dll
+/home/c/Música/login.Application/bin/Debug/net8.0/login.Domain.pdb
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.csproj.AssemblyReference.cache
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.AssemblyInfoInputs.cache
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.AssemblyInfo.cs
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.csproj.CoreCompileInputs.cache
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.csproj.CopyComplete
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.dll
+/home/c/Música/login.Application/obj/Debug/net8.0/refint/login.Application.dll
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.pdb
+/home/c/Música/login.Application/obj/Debug/net8.0/login.Application.genruntimeconfig.cache
+/home/c/Música/login.Application/obj/Debug/net8.0/ref/login.Application.dll
